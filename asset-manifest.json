@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Care-Me/static/css/main.f9ad1db6.chunk.css",
+    "main.js": "/Care-Me/static/js/main.6b80bb0a.chunk.js",
+    "main.js.map": "/Care-Me/static/js/main.6b80bb0a.chunk.js.map",
+    "runtime-main.js": "/Care-Me/static/js/runtime-main.98ee4035.js",
+    "runtime-main.js.map": "/Care-Me/static/js/runtime-main.98ee4035.js.map",
+    "static/css/2.cbedb215.chunk.css": "/Care-Me/static/css/2.cbedb215.chunk.css",
+    "static/js/2.e797600e.chunk.js": "/Care-Me/static/js/2.e797600e.chunk.js",
+    "static/js/2.e797600e.chunk.js.map": "/Care-Me/static/js/2.e797600e.chunk.js.map",
+    "index.html": "/Care-Me/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "/Care-Me/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.f9ad1db6.chunk.css.map": "/Care-Me/static/css/main.f9ad1db6.chunk.css.map",
+    "static/js/2.e797600e.chunk.js.LICENSE.txt": "/Care-Me/static/js/2.e797600e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Care-Me/static/media/20-a6cd4cSpecialties-1-10-06.98920b77.webp",
+    "static/media/Conversational.9dbad5cb.png": "/Care-Me/static/media/Conversational.9dbad5cb.png",
+    "static/media/Male_Doctor-512.1f4f4cca.png": "/Care-Me/static/media/Male_Doctor-512.1f4f4cca.png",
+    "static/media/chatbot-health-care-.edb99000.png": "/Care-Me/static/media/chatbot-health-care-.edb99000.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98ee4035.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.e797600e.chunk.js",
+    "static/css/main.f9ad1db6.chunk.css",
+    "static/js/main.6b80bb0a.chunk.js"
+  ]
+}
